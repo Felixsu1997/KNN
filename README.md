@@ -1,2 +1,3 @@
-# KNN
-Main KNN (show easy function to excel )
+# NN
+Main NN (show easy function to excel )
+show to excel neural network working
